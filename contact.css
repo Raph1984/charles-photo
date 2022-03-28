@@ -4,16 +4,13 @@ body{
   width: 100vw;
   height: 100vh; 
   text-align: center;
-
 }
 
-
-    nav img{
+ nav img{
         height: 125px;
     }
 
-
-     .container-fluid form{
+  .container-fluid form{
       position: absolute;
       top: 50%;
       left: 50%;
@@ -27,11 +24,9 @@ body{
      
     }
 
-    label{
+ label{
   color: #fff;
 }
-
-   
 
 .inputfield {
   
@@ -73,9 +68,7 @@ footer{
     text-align: center;
    }
 
-
 .fond{
   height: 100%;
   width: 100%;
 }
-
