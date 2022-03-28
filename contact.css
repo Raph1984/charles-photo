@@ -1,0 +1,81 @@
+body{
+  margin: 0;
+  padding: 0;
+  width: 100vw;
+  height: 100vh; 
+  text-align: center;
+
+}
+
+
+    nav img{
+        height: 125px;
+    }
+
+
+     .container-fluid form{
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 300px;
+      margin-left: -150px;
+      margin-top: -100px;
+      background:#131313;
+      border-radius: 17px;
+      padding: 20px;
+      box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+     
+    }
+
+    label{
+  color: #fff;
+}
+
+   
+
+.inputfield {
+  
+  font-family: 'Unbuntu', sans-serif;
+  display: block;
+  height: 44px;
+  width: 100%;
+  outline: none;
+  border-radius: 10px;
+  transition: all 1s;
+  border: 3px solid rgba(102,51,153,0);
+  background: #fff;
+  color: #000; 
+  margin: 1em 0 2em 0;
+  padding: 2em;
+}
+
+.button {
+  border: none;
+  height: 50px;
+  width: 100%;
+  border-radius: 0.3em;
+  font-size: 25px;
+  font-weight: 600;
+  color: white;
+  background:#212121;
+  transition: transform .5s;
+}
+
+.button:hover {
+  transform: scale(1.03);
+  cursor: pointer;
+  background-color: #f2f2f2;
+  color: #212121;
+}
+
+footer{
+    background: rgb(255,255,255);
+    text-align: center;
+   }
+
+
+.fond{
+  height: 100%;
+  width: 100%;
+}
+
