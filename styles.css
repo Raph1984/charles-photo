@@ -1,0 +1,51 @@
+body{
+  margin: 0;
+  padding: 0;
+  height:100vh ;
+  width: 100vw;
+  background: rgb(0,0,0);
+  text-align: center;
+}
+
+    img{
+        height: 125px;
+    }
+
+   
+    .container-image{
+        margin: 0;
+        padding: 0;
+        text-align: center;
+        color: rgb(212,175,55);
+        width: 100%;
+
+    }
+
+    .texte_center{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-family:'Hurricane', cursive;
+        font-size: 64px;
+
+    }
+
+    .acc{
+        height: 80vh;
+        max-width: 100%;
+    }
+   
+   svg{
+    margin: 2px;
+    left: 20px;
+   }
+    
+    
+    footer{
+    background: rgb(255,255,255);
+    text-align: center;
+    margin-top: 150px;
+   }
+
+
