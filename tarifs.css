@@ -33,6 +33,7 @@ body{
    }
 
    .tarif{
+    position :relative ;
     margin-top: 5%;
    }
 
