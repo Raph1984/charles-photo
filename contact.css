@@ -15,9 +15,11 @@ nav img{
 
      .container-fluid form{
       position: absolute;
-      top: 50%;
+      align-items: center;
+      top: 55%;
       left: 50%;
       width: 300px;
+      height: 500px;
       margin-left: -150px;
       margin-top: -100px;
       background:#131313;
@@ -58,7 +60,6 @@ label{
   font-weight: 600;
   color: white;
   background:#212121;
-  transition: transform .5s;
 }
 
 .button:hover {
@@ -75,6 +76,7 @@ footer{
 
 
 .fond{
+  align-items: center;
   height: 100%;
   width: 100%;
 }
